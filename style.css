@@ -1,0 +1,13 @@
+body{
+    text-align:center;
+}
+p{
+    font-size:25px;
+}
+img{
+    height:100px;
+    width:200px;
+}
+#MyCarousel{
+    background-color: linear-gradient(pink 30%, #60ebeb 70%);
+}
